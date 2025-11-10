@@ -304,3 +304,11 @@ header{
 .fort{
   border: 5px double rgb(201, 148, 253);
 }
+
+button a{
+  color:white;
+  text-decoration: none;
+}
+.a {
+  color:rgb(7, 51, 95);
+}
